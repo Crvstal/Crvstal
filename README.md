@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crvstal
 - 👀 I’m interested in Algorithms
-- 🌱 I’m currently learning Blockchain DevOps
-- 💞️ I’m looking to collaborate on Fullstack Blockchain Projects
+- 🌱 I’m currently learning Mobile DevOps using Dart/Flutter & Rust
+- 💞️ I’m looking to collaborate on Cross-Platform Applications & Rust Applications 
 - 📫 How to reach me https://www.linkedin.com/in/christian-bassey-558917221
 
 <!---
