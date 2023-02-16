@@ -10,3 +10,7 @@
 Crvstal/Crvstal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+- All Bootstrap sites will be made into Svelte PWAs
+- All Blogs → Applications
+- All Non serialized Readme files → Open source contributions.
