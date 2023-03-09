@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 - All Bootstrap sites will be made into Svelte PWAs
 - All Blogs → Applications
+- {Economics → Grammer → Code.}™
 - All Non serialized Readme files → Open source contributions.
