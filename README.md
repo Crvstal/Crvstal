@@ -11,8 +11,8 @@ Crvstal/Crvstal is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-- All Bootstrap sites will be made into Svelte PWAs
+- Bootstrap → Svelte PWAs
 - All Blogs → Applications
-- {Economics → Grammer → Code.}™
+- Teaching code {Economics → Grammer → Code.}™
 - All Non serialized Readme files → Open source contributions.
 - Enterprise plug-ins
